@@ -11,3 +11,5 @@ Covers:
 - Blob Detection
 - Target Locating!
 - Lots of useful resources for learning more!
+
+If you are going to use the Blob Detection Demo file, make sure to download the images from the Google Drive! They are a little too big to comfortably fit on our Github organization with our limited storage. See the discord for the link.
