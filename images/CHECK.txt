@@ -1,0 +1,1 @@
+If you will run the Blob Detection Demo, make sure to download the demo images from the group drive, which may also be in the discord.
