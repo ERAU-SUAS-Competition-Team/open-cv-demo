@@ -5,8 +5,13 @@
     scaling, rotation, translation, edge detection, contours, and more. See the
     blob detection demo file for specifics about that.
     
-    This is very messy code, which will be cleaned up and modified by the time
-    it is presented to the software team.
+    This file contains a very rough demo of all of the features shown in the
+    presentation, with the exception of blob detection due to its higher
+    complexity. It has been split up into dedicated files for each set of
+    functionality for easier use.
+    
+    Make sure to make an output folder inside the current folder if you want to
+    have file outputs!
 """
 
 import cv2 as cv
